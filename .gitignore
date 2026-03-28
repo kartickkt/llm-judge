@@ -1,5 +1,7 @@
 venv/
-data/
+data/raw/
+data/splits/
+data/processed/
 __pycache__/
 *.pem
 .env
