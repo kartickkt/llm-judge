@@ -1,0 +1,10 @@
+venv/
+data/
+__pycache__/
+*.pem
+.env
+*.pyc
+wandb/
+outputs/
+checkpoints/
+.cache/

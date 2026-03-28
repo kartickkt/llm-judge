@@ -1,0 +1,9 @@
+# Core data & ML
+datasets==3.5.0
+transformers==4.51.0
+tokenizers==0.21.1
+
+# Utilities
+numpy==2.2.4
+pyyaml==6.0.2
+jinja2==3.1.6
